@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hihi-haha/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/hihi-haha/static/js/main.bef2100c.chunk.js",
+    "main.js.map": "/hihi-haha/static/js/main.bef2100c.chunk.js.map",
+    "runtime-main.js": "/hihi-haha/static/js/runtime-main.db5603f3.js",
+    "runtime-main.js.map": "/hihi-haha/static/js/runtime-main.db5603f3.js.map",
+    "static/js/2.52cdc20b.chunk.js": "/hihi-haha/static/js/2.52cdc20b.chunk.js",
+    "static/js/2.52cdc20b.chunk.js.map": "/hihi-haha/static/js/2.52cdc20b.chunk.js.map",
+    "static/js/3.20340695.chunk.js": "/hihi-haha/static/js/3.20340695.chunk.js",
+    "static/js/3.20340695.chunk.js.map": "/hihi-haha/static/js/3.20340695.chunk.js.map",
+    "index.html": "/hihi-haha/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/hihi-haha/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.52cdc20b.chunk.js.LICENSE.txt": "/hihi-haha/static/js/2.52cdc20b.chunk.js.LICENSE.txt",
+    "static/media/al-khwarizmi.663c302d.jpg": "/hihi-haha/static/media/al-khwarizmi.663c302d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db5603f3.js",
+    "static/js/2.52cdc20b.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.bef2100c.chunk.js"
+  ]
+}
