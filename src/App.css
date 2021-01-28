@@ -24,7 +24,12 @@
   color: white;
 }
 
+.Name {
+  color: #61dafb;
+}
+
 .App-link {
+  margin-top: 48px;
   color: #61dafb;
 }
 
