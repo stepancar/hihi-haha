@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/hihi-haha/static/css/main.78eacc34.chunk.css",
-    "main.js": "/hihi-haha/static/js/main.0042fc17.chunk.js",
-    "main.js.map": "/hihi-haha/static/js/main.0042fc17.chunk.js.map",
-    "runtime-main.js": "/hihi-haha/static/js/runtime-main.db5603f3.js",
-    "runtime-main.js.map": "/hihi-haha/static/js/runtime-main.db5603f3.js.map",
-    "static/js/2.52cdc20b.chunk.js": "/hihi-haha/static/js/2.52cdc20b.chunk.js",
-    "static/js/2.52cdc20b.chunk.js.map": "/hihi-haha/static/js/2.52cdc20b.chunk.js.map",
-    "static/js/3.20340695.chunk.js": "/hihi-haha/static/js/3.20340695.chunk.js",
-    "static/js/3.20340695.chunk.js.map": "/hihi-haha/static/js/3.20340695.chunk.js.map",
+    "main.css": "/hihi-haha/static/css/main.10836a70.chunk.css",
+    "main.js": "/hihi-haha/static/js/main.2a0d3d64.chunk.js",
+    "main.js.map": "/hihi-haha/static/js/main.2a0d3d64.chunk.js.map",
+    "runtime-main.js": "/hihi-haha/static/js/runtime-main.0b7bd661.js",
+    "runtime-main.js.map": "/hihi-haha/static/js/runtime-main.0b7bd661.js.map",
+    "static/js/2.4e2ac16c.chunk.js": "/hihi-haha/static/js/2.4e2ac16c.chunk.js",
+    "static/js/2.4e2ac16c.chunk.js.map": "/hihi-haha/static/js/2.4e2ac16c.chunk.js.map",
+    "static/js/3.8820b205.chunk.js": "/hihi-haha/static/js/3.8820b205.chunk.js",
+    "static/js/3.8820b205.chunk.js.map": "/hihi-haha/static/js/3.8820b205.chunk.js.map",
+    "static/js/4.f40cedd9.chunk.js": "/hihi-haha/static/js/4.f40cedd9.chunk.js",
+    "static/js/4.f40cedd9.chunk.js.map": "/hihi-haha/static/js/4.f40cedd9.chunk.js.map",
     "index.html": "/hihi-haha/index.html",
-    "static/css/main.78eacc34.chunk.css.map": "/hihi-haha/static/css/main.78eacc34.chunk.css.map",
-    "static/js/2.52cdc20b.chunk.js.LICENSE.txt": "/hihi-haha/static/js/2.52cdc20b.chunk.js.LICENSE.txt",
+    "static/css/main.10836a70.chunk.css.map": "/hihi-haha/static/css/main.10836a70.chunk.css.map",
+    "static/js/2.4e2ac16c.chunk.js.LICENSE.txt": "/hihi-haha/static/js/2.4e2ac16c.chunk.js.LICENSE.txt",
+    "static/js/3.8820b205.chunk.js.LICENSE.txt": "/hihi-haha/static/js/3.8820b205.chunk.js.LICENSE.txt",
     "static/media/al-khwarizmi.663c302d.jpg": "/hihi-haha/static/media/al-khwarizmi.663c302d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.db5603f3.js",
-    "static/js/2.52cdc20b.chunk.js",
-    "static/css/main.78eacc34.chunk.css",
-    "static/js/main.0042fc17.chunk.js"
+    "static/js/runtime-main.0b7bd661.js",
+    "static/js/2.4e2ac16c.chunk.js",
+    "static/css/main.10836a70.chunk.css",
+    "static/js/main.2a0d3d64.chunk.js"
   ]
 }
